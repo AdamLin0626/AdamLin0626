@@ -1,5 +1,23 @@
-<h1 align="center">Hi 👋, I'm Yu-Hsiang Lin</h1>
-<h3 align="center">A Software Engineer from Taiwan</h3>
+<h1 align="center">Resume</h1>
+<head>
+  <h3 align="center">Hi 👋, I'm Yu-Hsiang Lin</h3>
+  <h3 align="center">A Software Engineer from Taiwan</h3>
+</head>
+
+___
+<div>
+<h3 align="left">Coding By Using :</h3>
+
+  
+<img style="height:23px" alt="Android" src="https://img.shields.io/badge/-Android-555555?style=flat&logo=android&logoColor=70D78B">  <img style="height:23px" src="https://img.shields.io/badge/-Kotlin-555555?style=flat&logo=kotlin&logoColor=70D78B">  <img style="height:23px" alt="java" src="https://badgen.net/badge/java/Java/555555?icon&label">
+<img style="height:23px" alt="Python" src="https://img.shields.io/badge/-Python-555555?style=flat&logo=python&logoColor=69a0d6">
+
+<h3 align="left">My Design Skills :</h3>
+
+<img style="height:23px" alt="Figma" src="https://img.shields.io/badge/-Figma-F7F7F7?style=flat&logo=figma&logoColor=F24E1E"/>
+
+
+</div>
 
 - 🏫 Ｍy undergraduate senior project : [DrinksMachine](https://github.com/AdamLin0626/DrinksMachine)
 
