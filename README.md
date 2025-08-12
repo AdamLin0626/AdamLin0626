@@ -15,7 +15,7 @@ ___
 <h3 align="left">My Design Skills :</h3>
 
 <img style="height:23px" alt="Figma" src="https://img.shields.io/badge/-Figma-F7F7F7?style=flat&logo=figma&logoColor=F24E1E"/>
-
+<img style="height:23px" alt="Figma" src="https://img.shields.io/badge/-Illustrator-F7F7F7?style=flat&logo=illustrator&logoColor=F24E1E"/>
 
 </div>
 
