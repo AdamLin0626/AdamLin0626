@@ -15,9 +15,7 @@ ___
 <h3 align="left">My Design Skills :</h3>
 
 <img style="height:23px" alt="Figma" src="https://img.shields.io/badge/-Figma-F7F7F7?style=flat&logo=figma&logoColor=F24E1E"/>
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-9055A2?logo=solidworks&logoColor=white)
+
 
 </div>
 
