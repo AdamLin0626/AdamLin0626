@@ -13,12 +13,11 @@ ___
 <img style="height:23px" alt="Python" src="https://img.shields.io/badge/-Python-555555?style=flat&logo=python&logoColor=69a0d6">
 
 <h3 align="left">My Design Skills :</h3>
-
-<img style="height:23px" alt="Figma" src="https://img.shields.io/badge/-Figma-F7F7F7?style=flat&logo=figma&logoColor=F24E1E"/>
-
+Figma、Illstrator、PhotoShop、InDesign、SoildWorks、Rhino
 
 </div>
 <h3 align="left">My Works</h3>
+ [AppInventor 版本（測試試用版_有完整功能及未來雛形 ）](https://github.com/AdamLin0626/DrinksMachine/tree/main/ClientApp_AppInventor(完整功能))</br>
 - 🏫 Ｍy undergraduate senior project : [DrinksMachine](https://github.com/AdamLin0626/DrinksMachine)
 
 <h3 align="left">Connect with me:</h3>
@@ -28,5 +27,5 @@ ___
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdamLin0626&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="AdamLin0626" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdamLin0626&show_icons=true&theme=highcontrast&title_color=ff0000&text_color=ffffff&hide_border=true&locale=en" alt="AdamLin0626" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdamLin0626&show_icons=true&theme=highcontrast&title_color=ff0000&text_color=ffffff&hide_border=true&locale=en" alt="AdamLin0626" /></p> -->
 
