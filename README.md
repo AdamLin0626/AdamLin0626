@@ -14,11 +14,17 @@ ___
 
 <h3 align="left">My Design Skills :</h3>
 Figma、Illstrator、PhotoShop、InDesign、SoildWorks、Rhino
+<h3 align="right">
+  <img style="width: 20%" alt="Coding" src="https://github.com/AdamLin0626/AdamLin0626/undraw_programming.svg">
+</h3>
 
 </div>
 <h3 align="left">My Works</h3>
- [AppInventor 版本（測試試用版_有完整功能及未來雛形 ）](https://github.com/AdamLin0626/DrinksMachine/tree/main/ClientApp_AppInventor(完整功能))</br>
-- 🏫 Ｍy undergraduate senior project : [DrinksMachine](https://github.com/AdamLin0626/DrinksMachine)
+<ul>
+  <li>🏫 Ｍy undergraduate senior project : <a href="https://github.com/AdamLin0626/DrinksMachine">DrinksMachine</a></li>
+  <li>☁️ Tring create a ApiToolsApp ： <a href="https://github.com/AdamLin0626/ApiToolBox.git">ApiTools</a></li>
+  <li>☁️ Tring create a GameLobby ： <a href="https://github.com/AdamLin0626/SimpleGame.git">SimpleGame</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
