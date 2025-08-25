@@ -7,15 +7,17 @@
 ___
 <div>
 <h3 align="left">Coding By Using :</h3>
-
-  
+<b align="left">
 <img style="height:23px" alt="Android" src="https://img.shields.io/badge/-Android-555555?style=flat&logo=android&logoColor=70D78B">  <img style="height:23px" src="https://img.shields.io/badge/-Kotlin-555555?style=flat&logo=kotlin&logoColor=70D78B">  <img style="height:23px" alt="java" src="https://badgen.net/badge/java/Java/555555?icon&label">
 <img style="height:23px" alt="Python" src="https://img.shields.io/badge/-Python-555555?style=flat&logo=python&logoColor=69a0d6">
+</b>
 
 <h3 align="left">My Design Skills :</h3>
-Figma、Illstrator、PhotoShop、InDesign、SoildWorks、Rhino
+<p align="left">
+  Figma、Illstrator、PhotoShop、InDesign、SoildWorks、Rhino
+</p>
 <h3 align="right">
-  <img style="width: 20%" alt="Coding" src="https://github.com/AdamLin0626/AdamLin0626/undraw_programming.svg">
+  <img style="width: 20%" alt="Coding" src="undraw_programming.svg">
 </h3>
 
 </div>
