@@ -1,16 +1,16 @@
+  <head>
   <h1 align="center">Resume</h1>
-  <h3 align="center">Hi 👋, I'm Yu-Hsiang Lin</h3>
-  <h3 align="center">A Software Engineer from Taiwan</h3>
-  <b>AboutMe:</b>
+  </head>
+  <h3 align="center"><b>About Me</b></h3>
 
 ```kotlin
 package com.linadam.resume
-
 
 data class aboutMe (
     val myName: String, val summary: String,
     val codingSkills: List<String>,
     val otherSkills: List<String>,
+    val hobbit: List<String>
     val contact: Contact
 )
 
@@ -44,9 +44,10 @@ fun main() {
 
 ```
 
-<h3 align="left">My Works</h3>
+<h3 align="center"><b>My Works</b></h3>
 <ul>
   <li>🏫 Ｍy undergraduate senior project : <a href="https://github.com/AdamLin0626/DrinksMachine">DrinksMachine</a></li>
+  <li>🏫 Ｍy undergraduate senior project : <a href="https://www.figma.com/proto/N0rd8NPKUsGxLt0mOzK0fA/UiDesign?node-id=0-1&t=HegnYL8HeKF5VgJA-1">DrinksMachine: PC Software UI</a></li>
   <li>☁️ Tring create a ApiToolsApp ： <a href="https://github.com/AdamLin0626/ApiToolBox.git">ApiTools</a></li>
   <li>☁️ Tring create a GameLobby ： <a href="https://github.com/AdamLin0626/SimpleGame.git">SimpleGame</a></li>
 </ul>
